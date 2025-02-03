@@ -1,5 +1,14 @@
 # Process of Attack Simulation and Threat Analysis (PASTA) Threat Model Worksheet
 
+## Project Overview
+In this project, I practiced using the Process of Attack Simulation and Threat Analysis (PASTA) threat model framework. I determined whether a new shopping app is safe to launch.
+
+## Scenario
+I’m part of the growing security team at a company for sneaker enthusiasts and collectors. The business is preparing to launch a mobile app that makes it easy for their customers to buy and sell shoes. I’m performing a threat model of the application using the PASTA framework.
+
+## Actions Taken
+I went through each of the seven stages of the PASTA framework to identify security requirements for the new sneaker company app.
+
 ## I. Define Business and Security Objectives
 ### Business Requirements:
 - Users can create member profiles internally or by connecting external accounts.
@@ -17,7 +26,6 @@
 **APIs** facilitate data exchange between customers, partners, and employees. They handle sensitive data and connect various users and systems, making them a high priority. However, identifying the specific APIs in use is essential before prioritizing security measures. APIs often have a larger attack surface and can be prone to vulnerabilities.
 
 ## III. Decompose Application
-
 _(This section is missing details. Please provide more information.)_
 
 ## IV. Threat Analysis
@@ -31,7 +39,6 @@ _(This section is missing details. Please provide more information.)_
 - **Broken API Token**
 
 ## VI. Attack Modeling
-
 _(This section is missing details. Please provide more information.)_
 
 ## VII. Risk Analysis and Impact
